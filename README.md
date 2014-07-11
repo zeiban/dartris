@@ -1,0 +1,2 @@
+# Dartris
+Dartis is a clone of that classic Russian puzzle game. It's loosely modeled after the Marathon mode game at [Tetris friends](www.tetrisfriends.com). I created it in a marathon of my own of about 10 hours in a effort to learn Dart.   
