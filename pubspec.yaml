@@ -1,4 +1,6 @@
-name: dartris
-description: A sample web application
+name: Dartris
+version: 0.0.1
+author: Ryan Stolle
+description: Clone of that Russian puzzle game written in Dart
 dependencies:
   browser: any
